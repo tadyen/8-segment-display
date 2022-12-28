@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328old",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "port": "COM4",
+    "sketch": "8_segment_youarepoo.ino"
+}
